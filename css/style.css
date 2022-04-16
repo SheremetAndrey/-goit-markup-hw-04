@@ -410,14 +410,7 @@ outline: 1px solid black;
 .about-imag1 {
   width: 270px;
 }
-.icons{
-  background-image:url(../images/icons.svg/Instagram.svg);
-  background-image: url(../images/icons.svg/bird.svg);
-  content: "";
-  display:inline-block;
-  background-repeat: no-repeat;
-  background-size: 44px;
-}
+
 .about-product{
   padding-top: 30px;
   padding-bottom: 30px;
@@ -523,21 +516,6 @@ margin-bottom: 10px;
 }
 .all-client{
   display: inline;
-}
-.client-1 {
-  content:"";
-  display: block;
-  background-image:url(../images/icons.svg/Client\ 1.svg);
-  background-repeat: no-repeat;
-  background-position: 200px;
-  
-}
-.clien-2{
-  content: "";
-  background-image:url(../images/icons.svg/Client\ 2.svg);
-  background-repeat: no-repeat;
-  background-position: 415px;
-  background-size:170px 92px;
 }
 
 
