@@ -180,8 +180,6 @@ p {
  
 }
 .icon-mail {
- width: 16px;
- height: 12px;
  fill: #757575;
  margin-right: 10px;
   
@@ -212,8 +210,6 @@ p {
   color: #2196f3;
 }
 .icon-phone {
-  width: 10px;
-  height: 16px;
   fill: #757575;
   margin-right: 10px;
   position: center;
