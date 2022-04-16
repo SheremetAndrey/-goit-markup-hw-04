@@ -216,6 +216,7 @@ p {
   height: 16px;
   fill: #757575;
   margin-right: 10px;
+  position: center;
 }
 .icon-phone:hover,
 .icon-phone:focus{
