@@ -189,12 +189,7 @@ p {
 .icon-mail:hover{
   fill: #2196f3;
 }
-.icon-phone{
-  width: 10px;
-  height: 16px;
-  fill: #757575;
-  margin-right: 10px;
-}
+
 
 /* info@devstudio.com */
 .header-mail:hover,
@@ -211,14 +206,20 @@ p {
   letter-spacing: 0.02em;
   color: #757575;
 }
-
-
-
-
 /* +38 096 111 11 11 */
 .header-phone:hover,
 .header-phone:focus {
   color: #2196f3;
+}
+.icon-phone {
+  width: 10px;
+  height: 16px;
+  fill: #757575;
+  margin-right: 10px;
+}
+.icon-phone:hover,
+.icon-phone:focus{
+  fill: #2196f3;
 }
 /* Bg */
 .hero{
