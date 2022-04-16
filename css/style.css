@@ -168,10 +168,7 @@ p {
 .mail-contacts:not(:last-child){
     margin-right: 50px;
    }
-   .mail-contacts{
-     background-image:url();
-   }
-
+   
 
 .header-mail {
   display: block;
@@ -185,17 +182,17 @@ p {
 .icon-mail {
  width: 16px;
  height: 12px;
-fill: #757575;
-margin-right: 10px;
+ fill: #757575;
+ margin-right: 10px;
   
 }
 .icon-phone{
   width: 10px;
   height: 16px;
-fill: #757575;
-margin-right: 10px;
+  fill: #757575;
+  margin-right: 10px;
 }
-.icon-mail:focus 
+
 .icon-mail:hover {
   fill: #2196f3;
 }
