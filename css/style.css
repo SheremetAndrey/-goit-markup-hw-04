@@ -186,6 +186,9 @@ p {
  margin-right: 10px;
   
 }
+.icon-mail:hover{
+  fill: #2196f3;
+}
 .icon-phone{
   width: 10px;
   height: 16px;
