@@ -186,7 +186,8 @@ p {
  margin-right: 10px;
   
 }
-.icon-mail:hover{
+.icon-mail:hover
+.icon-mail:focus{
   fill: #2196f3;
 }
 .icon-phone{
@@ -195,7 +196,8 @@ p {
   fill: #757575;
   margin-right: 10px;
 }
-.icon-phone:hover {
+.icon-phone:hover
+.icon-phone:focus {
   fill: #2196f3;
 
 /* info@devstudio.com */
