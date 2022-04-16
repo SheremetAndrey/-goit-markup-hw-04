@@ -189,6 +189,10 @@ fill: #757575;
 margin-right: 10px;
   
 }
+.icon-phone{
+  width:10px;
+  height: 16px;
+}
 .icon-mail:focus 
 .icon-mail:hover {
   fill: #2196f3;
