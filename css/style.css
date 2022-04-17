@@ -424,18 +424,18 @@ p {
   width: 44px;
   height: 44px;
 
-  background-color: var(--primary-white-color);
+  background-color: #ffffff;
   border-radius: 50%;
 }
 
 .team-link-icon:hover,
 .team-link-icon:focus {
-  background-color: var(--accent-color);
+  background-color: #2196f3;
 }
 
 .team-link-icon:hover .svg-icon,
 .team-link-icon:focus .svg-icon {
-  fill: var(--primary-white-color);
+  fill: #ffffff;
 }
 
 .team-link-icon {
