@@ -420,7 +420,8 @@ outline: 1px solid black;
  padding-left: 0;
  justify-content: center;
 }
-.team-icon{
+.svg-icon:hover{
+  fill:#2196f3;
   
 
 }
