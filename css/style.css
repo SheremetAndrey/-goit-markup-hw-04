@@ -427,6 +427,13 @@ outline: 1px solid black;
   padding-bottom: 30px;
 }
 .team-link-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 44px;
+  height: 44px;
+ 
+  border-radius: 50%;
  
 }
 /* img1 */
