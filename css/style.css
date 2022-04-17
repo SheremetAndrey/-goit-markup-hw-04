@@ -415,13 +415,13 @@ outline: 1px solid black;
 }
 /* Соц сети*/
 .soc-sety{
-  display: block;
+ list-style-type: none;
+ display: flex;
+ padding-left: 0;
+ justify-content: center;
 }
 .team-icon{
-  list-style-type: none;
-  display: flex;
-  padding-left: 0;
-  justify-content: center;
+  
 
 }
 .team-icon:not(:last-child) {
@@ -433,6 +433,7 @@ outline: 1px solid black;
   align-items: center;
   width: 44px;
   height: 44px;
+  border-radius: 50%;
 }
 
 
