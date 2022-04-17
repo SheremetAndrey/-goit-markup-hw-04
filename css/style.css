@@ -177,6 +177,7 @@ p {
   font-size: 14px;
   line-height: 1.14;
   color: #757575;
+  align-items: center;
  
 }
 .icon-mail {
@@ -203,6 +204,7 @@ p {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: #757575;
+  align-items: center;
 }
 /* +38 096 111 11 11 */
 .header-phone:hover,
