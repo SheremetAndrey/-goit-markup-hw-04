@@ -545,9 +545,17 @@ margin-bottom: 10px;
 .all-client{
   display: inline;
 }
-
-
-
+.all-client{
+  display: flex;
+}
+.all-client:not(:last-child){
+  margin-right: 30px;
+}
+.client{
+  border: 1px solid #AFB1B8;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
 /* Footer bg*/
 .footer-container{
 background: #2f303a;
