@@ -417,7 +417,6 @@ outline: 1px solid black;
 }
 
 .team-icon{
- cursor: pointer;
 border-radius: 50%;
 }
 .team-icon:not(:last-child) {
@@ -431,11 +430,8 @@ border-radius: 50%;
   height: 44px;
   border-radius: 50%;
 }
-.team-link-icon:hover,
-.team-link-icon:focus {
-  fill: #2196f3;
-  border-radius: 50%;
-}
+
+
 .team-link-icon:hover .svg-icon,
 .team-link-icon:focus .svg-icon {
   fill:#2196f3;
