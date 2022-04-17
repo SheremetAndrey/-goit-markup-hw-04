@@ -412,13 +412,13 @@ p {
   padding-left: 0;
   justify-content: center;
 }
-.svg-icon {
-  fill: #ffffff;
+.team-icons {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0;
+  justify-content: center;
 }
 
-.team-link-icon:hover {
-  color: #2196f3;
-}
 .team-icon:not(:last-child) {
   margin-right: 10px;
 }
@@ -429,7 +429,23 @@ p {
   align-items: center;
   width: 44px;
   height: 44px;
+
+  background-color: #ffffff;
   border-radius: 50%;
+}
+
+.team-link-icon:hover,
+.team-link-icon:focus {
+  background-color: #2196f3;
+}
+
+.team-link-icon:hover .svg-icon,
+.team-link-icon:focus .svg-icon {
+  fill: #ffffff;
+}
+
+.team-link-icon {
+  fill: #afb1b8;
 }
 
 /* img1 */
