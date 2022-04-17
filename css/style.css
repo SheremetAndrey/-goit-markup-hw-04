@@ -43,7 +43,6 @@ p {
   margin-bottom: 0;
 }
 .header {
- 
   border-bottom: 1px solid #eeeeee;
   padding-bottom: 25px;
   padding-top: 25px;
@@ -135,7 +134,7 @@ p {
   color: #2196f3;
 }
 /* Контакты */
-.nav-item:not(:last-child){
+.nav-item:not(:last-child) {
   margin-right: 50px;
 }
 .header-item-contacts {
@@ -157,7 +156,7 @@ p {
 
   color: #2196f3;
 }
-.mail-contacts:hover{
+.mail-contacts:hover {
   color: #2196f3;
 }
 .header-nav {
@@ -167,10 +166,9 @@ p {
   margin-left: auto;
 }
 /* info@devstudio.com */
-.mail-contacts:not(:last-child){
-    margin-right: 50px;
-   }
-   
+.mail-contacts:not(:last-child) {
+  margin-right: 50px;
+}
 
 .header-mail {
   display: block;
@@ -180,17 +178,14 @@ p {
   line-height: 1.14;
   color: #757575;
   align-items: center;
- 
 }
 .icon-mail {
- fill: #757575;
- margin-right: 10px;
-  
+  fill: #757575;
+  margin-right: 10px;
 }
 .icon-mail:hover {
   fill: #2196f3;
 }
-
 
 /* info@devstudio.com */
 .header-mail:hover,
@@ -222,53 +217,48 @@ p {
   fill: #2196f3;
 }
 /* Bg */
-.hero{
+.hero {
   padding-top: 94px;
   padding-bottom: 94px;
 }
 .hero-list {
   display: flex;
- 
 }
-.hero-item{
+.hero-item {
   width: 270px;
-  
 }
-.hero-item::before{
+.hero-item::before {
   content: "";
   display: block;
   background-image: url(../images/icons.svg/antene.svg);
   background-position: center;
   height: 120px;
 }
-.clock::before{
+.clock::before {
   content: "";
   display: block;
   background-image: url(../images/icons.svg/clock.svg);
   background-position: center;
   height: 120px;
 }
-.noute::before{
+.noute::before {
   content: "";
   display: block;
   background-image: url(../images/icons.svg/noute.svg);
   background-position: center;
   height: 120px;
-
 }
-.cosmo::before{
+.cosmo::before {
   content: "";
   display: block;
   background-image: url(../images/icons.svg/kosmo.svg);
   background-position: center;
   background-repeat: no-repeat;
   height: 120px;
-
 }
- .hero-item:not(:last-child){
-   margin-right: 30px;
-   
- }
+.hero-item:not(:last-child) {
+  margin-right: 30px;
+}
 
 .unique-content {
   padding-top: 200px;
@@ -276,11 +266,16 @@ p {
   text-align: center;
   max-width: 1600px;
   background-color: #2f303a;
-   background-image:linear-gradient(to right, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),url(../images/foto.jpg);
-   background-repeat: no-repeat;
-   background-position:center;
-   background-size: cover;
-outline: 1px solid black;
+  background-image: linear-gradient(
+      to right,
+      rgba(47, 48, 58, 0.4),
+      rgba(47, 48, 58, 0.4)
+    ),
+    url(../images/foto.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  outline: 1px solid black;
 }
 /* Эффективные решения для вашегоt бизнеса */
 .main-logo {
@@ -323,7 +318,6 @@ outline: 1px solid black;
   border: 0;
 }
 
-
 /* Внимание к деталям */
 .hero-title {
   font-size: 14px;
@@ -344,7 +338,6 @@ outline: 1px solid black;
 }
 /* Чем мы занимаемся */
 .study {
-  
   padding-bottom: 94px;
 }
 
@@ -363,7 +356,6 @@ outline: 1px solid black;
 }
 .picture-item:not(:last-child) {
   margin-right: 30px;
- 
 }
 /* img */
 .study-item-image {
@@ -403,7 +395,7 @@ outline: 1px solid black;
   border-radius: 0px 0px 4px 4px;
   box-shadow: 0px 1px 3px rgb(0 0 0 / 12%), 0px 1px 1px rgb(0 0 0 / 14%),
     0px 2px 1px rgb(0 0 0 / 20%);
-  background:#ffffff;
+  background: #ffffff;
 }
 .about-imag1 {
   width: 270px;
@@ -414,22 +406,22 @@ outline: 1px solid black;
   padding-bottom: 30px;
 }
 /* Соц сети*/
-.soc-sety{
- list-style-type: none;
- display: flex;
- padding-left: 0;
- justify-content: center;
+.soc-sety {
+  list-style-type: none;
+  display: flex;
+  padding-left: 0;
+  justify-content: center;
 }
-.svg-icon:hover{
-  fill:#ffffff;
+.svg-icon:hover {
+  fill: #ffffff;
 }
-.team-link-icon:hover{
-  fill: #2196f3;
+.team-link-icon:hover {
+  background-color: #2196f3;
 }
 .team-icon:not(:last-child) {
   margin-right: 10px;
 }
-.team-link-icon{
+.team-link-icon {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -437,7 +429,6 @@ outline: 1px solid black;
   height: 44px;
   border-radius: 50%;
 }
-
 
 /* img1 */
 .about-title-igor {
@@ -452,7 +443,6 @@ outline: 1px solid black;
   font-size: 16px;
   line-height: 19px;
   color: #757575;
- 
 }
 /* img2 */
 .about-item-block {
@@ -461,8 +451,8 @@ outline: 1px solid black;
     0px 2px 1px rgb(0 0 0 / 20%);
   border-radius: 0px 0px 4px 4px;
 }
-.about-item:not(:last-child){
-margin-right: 30px;
+.about-item:not(:last-child) {
+  margin-right: 30px;
 }
 .about-imag2 {
   width: 270px;
@@ -471,7 +461,7 @@ margin-right: 30px;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
-margin-bottom: 10px;
+  margin-bottom: 10px;
   color: #212121;
 }
 .about-upper-fronted {
@@ -494,7 +484,7 @@ margin-bottom: 10px;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
-margin-bottom: 10px;
+  margin-bottom: 10px;
   color: #212121;
 }
 .about-upper-marketing {
@@ -517,7 +507,7 @@ margin-bottom: 10px;
   font-weight: 500;
   font-size: 16px;
   line-height: 19px;
-margin-bottom: 10px;
+  margin-bottom: 10px;
   color: #212121;
 }
 .about-upper {
@@ -527,67 +517,64 @@ margin-bottom: 10px;
   color: #757575;
 }
 
-
-
 /*< !-- Секция наши клиенты -->*/
-.clients{
+.clients {
   padding-top: 94px;
   padding-bottom: 94px;
 }
 
-.most-client{
+.most-client {
   font-size: 36px;
   text-align: center;
   margin-top: 291px;
   margin-bottom: 50px;
 }
-.all-client{
+.all-client {
   display: inline;
   list-style-type: none;
 }
-.all-client{
+.all-client {
   display: flex;
 }
-.client:not(:last-child){
+.client:not(:last-child) {
   margin-right: 30px;
 }
-.all-client{
+.all-client {
   margin-left: 215px;
 }
-.client{
-display: flex;
-justify-content: center;
-align-items: center;
-width: 170px;
-height: 92px;
-margin-right: 30px;
-border: 1px solid #afb1b8;
-box-sizing: border-box;
-border-radius: 4px;
-cursor: pointer;
-  
+.client {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 170px;
+  height: 92px;
+  margin-right: 30px;
+  border: 1px solid #afb1b8;
+  box-sizing: border-box;
+  border-radius: 4px;
+  cursor: pointer;
 }
-.client-icon{
+.client-icon {
   width: 106px;
   height: 60px;
   fill: #afb1b8;
 }
 .client-icon:hover,
-.client-icon:focus{
+.client-icon:focus {
   fill: #2196f3;
 }
-.client-link{
+.client-link {
   justify-content: center;
 }
 .client-link:hover,
 .client-link:focus {
-background-color: #2196f3;
+  background-color: #2196f3;
 }
 /* Footer bg*/
-.footer-container{
-background: #2f303a;
-padding-top: 60px;
-padding-bottom: 60px;
+.footer-container {
+  background: #2f303a;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .logo-footer {
@@ -629,14 +616,14 @@ padding-bottom: 60px;
 .logo-studio-footer {
   color: #ffffff;
 }
-.footer-adress:not(:last-child){
-  margin-bottom:9px
+.footer-adress:not(:last-child) {
+  margin-bottom: 9px;
 }
 /*----ПОРТФОЛИО----*/
 /*секция хедер*/
 
 /* КНОПКИ*/
-.list:not(:last-child){
+.list:not(:last-child) {
   margin-right: 8px;
 }
 .portfolio-btn {
@@ -672,11 +659,10 @@ padding-bottom: 60px;
   display: flex;
   flex-wrap: wrap;
   margin: -15px;
-
 }
 .main-content {
   margin: 15px;
-  
+
   box-sizing: border-box;
   width: 370px;
   background: #ffffff;
@@ -689,34 +675,31 @@ padding-bottom: 60px;
   font-size: 18px;
   letter-spacing: 0.06em;
   color: #212121;
-  
 }
 .title {
   font-size: 16px;
   letter-spacing: 0.03em;
   color: #757575;
   margin-top: 4px;
- }
+}
 
 .content-main {
   display: flex;
   justify-content: center;
   margin-bottom: 34px;
 }
-.portfolio-container{
+.portfolio-container {
   padding-top: 94px;
   padding-bottom: 94px;
 }
-.paragraf-web{
- 
-  padding-top:20px ;
-  padding-bottom:20px ;
-  padding-left:24px ;
-  border-left: 1px solid #EEEEEE;
-  border-right: 1px solid #EEEEEE;
-  border-bottom:1px solid #EEEEEE;
-  
+.paragraf-web {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 24px;
+  border-left: 1px solid #eeeeee;
+  border-right: 1px solid #eeeeee;
+  border-bottom: 1px solid #eeeeee;
 }
-.Star{
-  white-space: nowrap
+.Star {
+  white-space: nowrap;
 }
