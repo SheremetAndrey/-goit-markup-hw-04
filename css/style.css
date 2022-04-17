@@ -416,10 +416,14 @@ p {
   fill: #ffffff;
 }
 .team-link-icon:hover {
-  background-color: #2196f3;
+  fill: #2196f3;
 }
 .team-icon:not(:last-child) {
   margin-right: 10px;
+}
+.team-link-icon:hover .svg-icon,
+.team-link-icon:focus .svg-icon {
+  fill: var(--accent-color);
 }
 .team-link-icon {
   display: flex;
