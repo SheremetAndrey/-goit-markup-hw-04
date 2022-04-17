@@ -414,7 +414,9 @@ outline: 1px solid black;
   padding-bottom: 30px;
 }
 /* Соц сети*/
-
+.soc-sety{
+  display: block;
+}
 .team-icon{
   list-style-type: none;
   display: flex;
