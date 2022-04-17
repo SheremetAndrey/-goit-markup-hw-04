@@ -421,9 +421,10 @@ outline: 1px solid black;
  justify-content: center;
 }
 .svg-icon:hover{
-  fill:#2196f3;
-  
-
+  fill:#ffffff;
+}
+.team-link-icon:hover{
+  fill: #2196f3;
 }
 .team-icon:not(:last-child) {
   margin-right: 10px;
