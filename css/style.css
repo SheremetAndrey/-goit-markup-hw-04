@@ -542,7 +542,10 @@ margin-bottom: 10px;
 
 
 /*< !-- Секция наши клиенты -->*/
-
+.clients{
+  padding-top: 94px;
+  padding-bottom: 94px;
+}
 
 .most-client{
   font-size: 36px;
