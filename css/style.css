@@ -413,12 +413,11 @@ p {
   justify-content: center;
 }
 .svg-icon {
-}
-.svg-icon:hover {
   fill: #ffffff;
 }
+
 .team-link-icon:hover {
-  background-color: #2196f3;
+  color: #2196f3;
 }
 .team-icon:not(:last-child) {
   margin-right: 10px;
