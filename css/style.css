@@ -416,9 +416,7 @@ outline: 1px solid black;
 
 }
 
-.team-icon{
-border-radius: 50%;
-}
+
 .team-icon:not(:last-child) {
   margin-right: 10px;
 }
