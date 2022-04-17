@@ -559,6 +559,9 @@ margin-bottom: 10px;
 .client:not(:last-child){
   margin-right: 30px;
 }
+.all-client{
+  margin-left: 215px;
+}
 .client{
 display: flex;
 justify-content: center;
