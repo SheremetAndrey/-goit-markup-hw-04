@@ -434,12 +434,12 @@ border-radius: 50%;
 
 .team-link-icon:hover,
 .team-link-icon:focus {
-  background-color: var(--accent-color);
+  background-color: #ffffff;
 }
 
 .team-link-icon:hover .svg-icon,
 .team-link-icon:focus .svg-icon {
-  fill: var(--primary-white-color);
+  fill:#2196f3;
 }
 .team-link-icon {
   fill: #afb1b8;
@@ -577,8 +577,9 @@ cursor: pointer;
   height: 60px;
   fill: #afb1b8;
 }
-.client-link{
-
+.client:hover,
+.client:focus {
+background-color: #2196f3;
 }
 /* Footer bg*/
 .footer-container{
