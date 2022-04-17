@@ -409,12 +409,17 @@ outline: 1px solid black;
   width: 270px;
 }
 .sety{
-  display: block;
+  display:inline
 
 }
-.insta{}
+.insta{
+  background-repeat: no-repeat;
+  background-position: 2 2;
+}
 .bird{}
-.facebook{}
+.facebook{
+  content: "";
+}
 .in{}
 .about-product{
   padding-top: 30px;
