@@ -411,31 +411,20 @@ outline: 1px solid black;
 .sety{
   display:flex;
   list-style-type: none;
+  justify-content: center;
 
 }
-.instagram{
-  margin-left: 32px;
-  margin-bottom: 30px;
+.team-icon:not(:last-child) {
+  margin-right: 10px;
 }
-.bird{}
-.facebook{
-  content: "";
-}
-.in{}
+
+  
+
 .about-product{
   padding-top: 30px;
   padding-bottom: 30px;
 }
-.team-link-icon{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 44px;
-  height: 44px;
- 
-  border-radius: 50%;
- 
-}
+
 /* img1 */
 .about-title-igor {
   font-weight: 500;
