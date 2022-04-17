@@ -412,14 +412,12 @@ outline: 1px solid black;
   display:flex;
   list-style-type: none;
   justify-content: center;
+  margin-top: 16px;
 
 }
-.insta{
-  width: 20px;
-  height: 20px;
-}
+
 .team-icon{
-  margin-top: 16px;
+ 
 }
 .team-icon:not(:last-child) {
   margin-right: 10px;
@@ -432,6 +430,10 @@ outline: 1px solid black;
   height: 44px;
   background-color: var(--primary-white-color);
   border-radius: 50%;
+}
+.team-link-icon:hover,
+.team-link-icon:focus {
+  fill: #2196f3;
 }
 
 
