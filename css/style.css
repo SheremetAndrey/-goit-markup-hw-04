@@ -157,7 +157,9 @@ p {
 
   color: #2196f3;
 }
-
+.mail-contacts:hover{
+  color: #2196f3;
+}
 .header-nav {
   display: flex;
   margin-top: 0px;
