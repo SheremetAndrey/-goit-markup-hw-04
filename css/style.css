@@ -409,7 +409,7 @@ outline: 1px solid black;
   width: 270px;
 }
 .sety{
-  display:inline
+  display:inline;
 
 }
 .insta{
@@ -424,6 +424,15 @@ outline: 1px solid black;
 .about-product{
   padding-top: 30px;
   padding-bottom: 30px;
+}
+.team-link-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 44px;
+  height: 44px;
+  background-color: var(--primary-white-color);
+  border-radius: 50%;
 }
 /* img1 */
 .about-title-igor {
