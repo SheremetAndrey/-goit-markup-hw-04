@@ -413,9 +413,9 @@ outline: 1px solid black;
   list-style-type: none;
 
 }
-.insta{
-  background-repeat: no-repeat;
-  background-position: 2 2;
+.instagram{
+  margin-left: 32px;
+  margin-bottom: 30px;
 }
 .bird{}
 .facebook{
