@@ -409,7 +409,8 @@ outline: 1px solid black;
   width: 270px;
 }
 .sety{
-  display:inline;
+  display:flex;
+  list-style-type: none;
 
 }
 .insta{
