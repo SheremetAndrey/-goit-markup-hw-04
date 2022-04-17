@@ -187,8 +187,7 @@ p {
  margin-right: 10px;
   
 }
-.icon-mail:hover,
-.icn-mail:focus {
+.icon-mail:hover {
   fill: #2196f3;
 }
 
@@ -219,8 +218,7 @@ p {
   margin-right: 10px;
   position: center;
 }
-.icon-phone:hover,
-.icon-phone:focus{
+.icon-phone:hover {
   fill: #2196f3;
 }
 /* Bg */
@@ -410,7 +408,13 @@ outline: 1px solid black;
 .about-imag1 {
   width: 270px;
 }
+.sety{
 
+}
+.insta{}
+.bird{}
+.facebook{}
+.in{}
 .about-product{
   padding-top: 30px;
   padding-bottom: 30px;
