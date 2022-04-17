@@ -418,6 +418,9 @@ outline: 1px solid black;
   width: 20px;
   height: 20px;
 }
+.team-icon{
+  margin-top: 16px;
+}
 .team-icon:not(:last-child) {
   margin-right: 10px;
 }
