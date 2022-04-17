@@ -577,8 +577,8 @@ cursor: pointer;
   height: 60px;
   fill: #afb1b8;
 }
-.client-icon:hover,
-.client-icon:focus{
+.icon-client:hover,
+.icon-client:focus{
   fill: #2196f3;
 }
 .client-link{
