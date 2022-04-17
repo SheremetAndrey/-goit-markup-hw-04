@@ -417,8 +417,16 @@ outline: 1px solid black;
 .team-icon:not(:last-child) {
   margin-right: 10px;
 }
+.team-link-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 44px;
+  height: 44px;
+  background-color: var(--primary-white-color);
+  border-radius: 50%;
+}
 
-  
 
 .about-product{
   padding-top: 30px;
