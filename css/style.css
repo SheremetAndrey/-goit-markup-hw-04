@@ -416,7 +416,7 @@ p {
   fill: #ffffff;
 }
 .team-link-icon:hover {
-  fill: #2196f3;
+  background-color: #2196f3;
 }
 .team-icon:not(:last-child) {
   margin-right: 10px;
