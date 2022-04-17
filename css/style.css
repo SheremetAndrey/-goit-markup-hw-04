@@ -420,6 +420,9 @@ outline: 1px solid black;
   justify-content: center;
   margin-top: 16px;
 }
+.team-icon{
+  
+}
 .team-icon:not(:last-child) {
   margin-right: 10px;
 }
