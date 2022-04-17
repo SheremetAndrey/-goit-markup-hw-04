@@ -185,7 +185,8 @@ p {
  margin-right: 10px;
   
 }
-.icon-mail:hover{
+.icon-mail:hover,
+.icn-mail:focus {
   fill: #2196f3;
 }
 
