@@ -414,6 +414,10 @@ outline: 1px solid black;
   justify-content: center;
 
 }
+.insta{
+  width: 20px;
+  height: 20px;
+}
 .team-icon:not(:last-child) {
   margin-right: 10px;
 }
