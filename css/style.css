@@ -577,8 +577,11 @@ cursor: pointer;
   height: 60px;
   fill: #afb1b8;
 }
-.client:hover,
-.client:focus {
+.client-link{
+  justify-content: center;
+}
+.client-link:hover,
+.client-link:focus {
 background-color: #2196f3;
 }
 /* Footer bg*/
