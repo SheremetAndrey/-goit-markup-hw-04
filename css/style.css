@@ -424,7 +424,7 @@ p {
   width: 44px;
   height: 44px;
 
-  background-color: #ffffff;
+  background-color: ;
   border-radius: 50%;
 }
 
@@ -435,11 +435,9 @@ p {
 
 .team-link-icon:hover .svg-icon,
 .team-link-icon:focus .svg-icon {
-  fill: #ffffff;
 }
 
 .team-link-icon {
-  fill: #afb1b8;
 }
 
 .svg-icon {
