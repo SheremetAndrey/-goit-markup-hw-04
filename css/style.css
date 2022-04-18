@@ -411,6 +411,7 @@ p {
   display: flex;
   padding-left: 0;
   justify-content: center;
+  margin-top: 16px;
 }
 
 .team-icon:not(:last-child) {
