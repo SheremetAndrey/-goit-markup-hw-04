@@ -637,10 +637,30 @@ p {
 .footer-adress:not(:last-child) {
   margin-bottom: 9px;
 }
+/*---Социальные Сети*/
+.commen {
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+}
+.sety {
+  display: flex;
+  list-style-type: none;
+}
+.sety-social:not(:last-child) {
+  margin-right: 10px;
+}
+.sety-social {
+  width: 44px;
+  height: 44px;
+}
 /*----ПОРТФОЛИО----*/
 /*секция хедер*/
 
 /* КНОПКИ*/
+
 .list:not(:last-child) {
   margin-right: 8px;
 }
