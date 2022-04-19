@@ -414,7 +414,8 @@ p {
   color: #ffffff;
 }
 
-.team-link-icon:hover {
+.team-link-icon:hover,
+.team-link-icon:focus {
   color: #2196f3;
 }
 
