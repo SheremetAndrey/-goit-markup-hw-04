@@ -399,7 +399,6 @@ p {
   justify-content: center;
   margin-top: 16px;
 }
-
 .team-icon:not(:last-child) {
   margin-right: 10px;
 }
@@ -410,26 +409,25 @@ p {
   align-items: center;
   width: 44px;
   height: 44px;
+
+  background-color: var(--primary-white-color);
   border-radius: 50%;
-  color: #ffffff;
 }
 
 .team-link-icon:hover,
 .team-link-icon:focus {
-  color: #2196f3;
+  background-color: var(--accent-color);
 }
 
-.svg-icon:hover,
-.svg-icon:focus {
-  fill: #ffffff;
+.team-link-icon:hover .svg-icon,
+.team-link-icon:focus .svg-icon {
+  fill: var(--primary-white-color);
 }
-.svg-icon {
+
+.team-link-icon {
   fill: #afb1b8;
 }
 
-.svg-icon {
-  width: 20px;
-  height: 20px;
 }
 /* img1 */
 .about-title-igor {
