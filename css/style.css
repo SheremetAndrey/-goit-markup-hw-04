@@ -584,6 +584,9 @@ p {
   justify-content: center;
   color: #afb1b8;
 }
+.client-link:hover {
+  fill: #2196f3;
+}
 
 /* Footer bg*/
 .footer-container {
