@@ -425,7 +425,7 @@ p {
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  color: #afb1b8;
+  color: #ffffff;
 }
 
 .team-link-icon:hover {
@@ -433,7 +433,7 @@ p {
 }
 
 .svg-icon:hover {
-  fill: #2196f3;
+  fill: #ffffff;
 }
 .svg-icon {
   fill: #afb1b8;
