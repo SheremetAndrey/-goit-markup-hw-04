@@ -311,6 +311,8 @@ p {
   background-color: #f5f4fa;
 }
 .item-logo-svg {
+  width: 70px;
+  height: 70px;
 }
 /* Идейные соображения, а также начало повседневной работы по формированию позиции. */
 .upper-title {
