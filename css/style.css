@@ -564,6 +564,10 @@ p {
   border-radius: 4px;
   cursor: pointer;
 }
+.client:hover,
+.client:focus {
+  border: 1px solid #2196f3;
+}
 .client-icon {
   width: 106px;
   height: 60px;
@@ -573,13 +577,12 @@ p {
 .client-icon:focus {
   fill: #2196f3;
 }
+
 .client-link {
   justify-content: center;
+  color: #afb1b8;
 }
-.client-link:hover,
-.client-link:focus {
-  background-color: #2196f3;
-}
+
 /* Footer bg*/
 .footer-container {
   background: #2f303a;
