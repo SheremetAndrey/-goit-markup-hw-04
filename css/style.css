@@ -425,22 +425,18 @@ p {
   width: 44px;
   height: 44px;
   border-radius: 50%;
+  color: #afb1b8;
 }
 
-.team-link-icon:hover,
-.team-link-icon:focus {
+.team-link-icon:hover {
   background-color: #2196f3;
 }
 
 .svg-icon:hover {
-  fill: #ffffff;
+  fill: #2196f3;
 }
 .svg-icon {
   fill: #afb1b8;
-}
-
-.team-link-icon {
-  fill: #2196f3;
 }
 
 .svg-icon {
