@@ -425,14 +425,15 @@ p {
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  color: #ffffff;
+  color: #afb1b8;
 }
 
 .team-link-icon:hover {
   background-color: #2196f3;
 }
 
-.svg-icon:hover {
+.svg-icon:hover,
+.svg-icon:focus {
   fill: #ffffff;
 }
 .svg-icon {
@@ -567,6 +568,7 @@ p {
 .client:hover,
 .client:focus {
   border: 1px solid #2196f3;
+  color: #2196f3;
 }
 .client-icon {
   width: 106px;
