@@ -227,35 +227,7 @@ p {
 .hero-item {
   width: 270px;
 }
-.hero-item::before {
-  content: "";
-  display: block;
-  background-image: url(../images/icons.svg/antene.svg);
-  background-position: center;
-  height: 120px;
-}
-.clock::before {
-  content: "";
-  display: block;
-  background-image: url(../images/icons.svg/clock.svg);
-  background-position: center;
-  height: 120px;
-}
-.noute::before {
-  content: "";
-  display: block;
-  background-image: url(../images/icons.svg/noute.svg);
-  background-position: center;
-  height: 120px;
-}
-.cosmo::before {
-  content: "";
-  display: block;
-  background-image: url(../images/icons.svg/kosmo.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  height: 120px;
-}
+
 .hero-item:not(:last-child) {
   margin-right: 30px;
 }
