@@ -328,6 +328,18 @@ p {
 
   color: #212121;
 }
+.hero-item-logo {
+  width: 270px;
+  height: 120px;
+  border-radius: 4px;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f5f4fa;
+}
+.item-logo-svg {
+}
 /* Идейные соображения, а также начало повседневной работы по формированию позиции. */
 .upper-title {
   font-size: 14px;
@@ -428,18 +440,20 @@ p {
 }
 
 .team-link-icon:hover {
+  color: #2196f3;
 }
 
 .svg-icon:hover,
 .svg-icon:focus {
+  fill: #ffffff;
 }
 .svg-icon {
   fill: #afb1b8;
 }
 
 .svg-icon {
-  width: 44px;
-  height: 44px;
+  width: 20px;
+  height: 20px;
 }
 /* img1 */
 .about-title-igor {
