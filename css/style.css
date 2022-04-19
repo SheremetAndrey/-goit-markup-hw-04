@@ -432,9 +432,11 @@ p {
   background-color: #2196f3;
 }
 
-.svg-icon,
+.svg-icon:hover {
+  fill: #ffffff;
+}
 .svg-icon {
-  fill: #2196f3;
+  fill: #afb1b8;
 }
 
 .team-link-icon {
