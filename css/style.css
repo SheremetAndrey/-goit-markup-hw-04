@@ -424,6 +424,9 @@ p {
 .svg-icon:hover,
 .svg-icon:focus {
   fill: #ffffff;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
 }
 
 .svg-icon {
