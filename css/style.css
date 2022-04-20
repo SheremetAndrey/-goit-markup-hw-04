@@ -625,9 +625,8 @@ p {
 }
 /*---Социальные Сети*/
 .sety-come {
-  margin-top: 75px;
-  margin-left: 516px;
-  margin-bottom: 97px;
+  width: 206px;
+  height: 80px;
 }
 .commen {
   font-weight: 700;
