@@ -411,18 +411,18 @@ p {
   width: 44px;
   height: 44px;
   border-radius: 50%;
+  background-color: #ffffff;
 }
 
 .team-link-icon:hover,
 .team-link-icon:focus {
-  fill: #2196f3;
-}
-
-.svg-icon:hover,
-.svg-icon:focus {
-  fill: #2196f3;
+  background-color: #2196f3;
 }
 .svg-icon {
+  fill: #afb1b8;
+}
+.svg-icon:hover,
+.svg-icon:focus {
   fill: #ffffff;
 }
 
