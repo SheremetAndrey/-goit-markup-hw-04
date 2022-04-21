@@ -635,10 +635,11 @@ p {
 }
 .commen {
   font-weight: 700;
-  color: #ffffff;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1, 14;
   letter-spacing: 0.03em;
+  color: #ffffff;
+  margin-top: 0;
 }
 .sety {
   display: flex;
