@@ -578,7 +578,7 @@ p {
 }
 
 /* Footer bg*/
-.adress-footer{
+.adress-footer {
   display: flex;
   align-items: baseline;
 }
@@ -654,6 +654,14 @@ p {
   margin-right: 10px;
 }
 .sety-social {
+  width: 44px;
+  height: 44px;
+  fill: #757575;
+  border-radius: 50%;
+}
+.svg-icon-come:hover,
+.svg-icon-come:focus {
+  fill: #2196f3;
 }
 .social-all {
   width: 20px;
