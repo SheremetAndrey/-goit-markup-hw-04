@@ -544,7 +544,6 @@ p {
   align-items: center;
   width: 170px;
   height: 92px;
-  margin-right: 30px;
   border: 1px solid #afb1b8;
   box-sizing: border-box;
   border-radius: 4px;
@@ -653,6 +652,7 @@ p {
   background: rgba(255, 255, 255, 0.1);
   border-radius: 50%;
   justify-content: center;
+  align-items: center;
 }
 .svg-icon-come {
   width: 20px;
