@@ -659,6 +659,7 @@ p {
   height: 44px;
   fill: #757575;
   border-radius: 50%;
+  justify-content: center;
 }
 .svg-icon-come:hover,
 .svg-icon-come:focus {
