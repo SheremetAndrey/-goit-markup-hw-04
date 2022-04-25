@@ -657,7 +657,7 @@ p {
 .sety-social {
   width: 44px;
   height: 44px;
-  fill: #757575;
+  background: rgba(255, 255, 255, 0.1);
   border-radius: 50%;
   justify-content: center;
 }
