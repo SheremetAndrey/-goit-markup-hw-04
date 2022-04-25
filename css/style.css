@@ -649,6 +649,7 @@ p {
 .sety {
   display: flex;
   list-style-type: none;
+  margin-top: 20px;
 }
 .sety-social:not(:last-child) {
   margin-right: 10px;
