@@ -636,8 +636,6 @@ p {
 }
 .commen {
   font-weight: 700;
-  font-size: 14px;
-  line-height: 1, 14;
   letter-spacing: 0.03em;
   color: #ffffff;
   margin-top: 0;
@@ -659,7 +657,6 @@ p {
 .svg-icon-come {
   width: 20px;
   height: 20px;
-  justify-content: center;
 }
 .sety-social:hover,
 .sety-social:focus {
@@ -668,6 +665,8 @@ p {
 .social-all {
   width: 20px;
   height: 20px;
+  justify-content: center;
+  align-items: center;
 }
 /*----ПОРТФОЛИО----*/
 /*секция хедер*/
