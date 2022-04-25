@@ -429,10 +429,6 @@ p {
   fill: #ffffff;
 }
 
-.svg-icon-come {
-  width: 20px;
-  height: 20px;
-}
 /* img1 */
 .about-title-igor {
   font-weight: 500;
@@ -659,11 +655,15 @@ p {
   height: 44px;
   background: rgba(255, 255, 255, 0.1);
   border-radius: 50%;
+}
+.svg-icon-come {
+  width: 20px;
+  height: 20px;
   justify-content: center;
 }
-.svg-icon-come:hover,
-.svg-icon-come:focus {
-  fill: #2196f3;
+.sety-social:hover,
+.sety-social:focus {
+  background: #2196f3;
 }
 .social-all {
   width: 20px;
