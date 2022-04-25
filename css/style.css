@@ -578,7 +578,13 @@ p {
 }
 
 /* Footer bg*/
+.adress-footer{
+ 
+}
+
 .footer-container {
+  display: flex;
+  align-items: baseline;
   background: #2f303a;
   padding-top: 60px;
   padding-bottom: 60px;
